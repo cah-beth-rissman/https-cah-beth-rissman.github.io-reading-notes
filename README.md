@@ -1,4 +1,4 @@
-# Learning @DeltaV
+# DeltaV Learning
 *Change in 5 months*
 ## Table of Contents
 ### :pencil2:  Notes for Code 102
