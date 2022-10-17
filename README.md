@@ -1,12 +1,14 @@
-# DeltaV Learning
-*Change in 5 months*
-## Table of Contents
-### :pencil2:  Notes for Code 102
-- [Class Notes - 01](https://github.com/cah-beth-rissman/deltav/blob/main/102-01_notes.md)
-- [Class Notes - 02](https://github.com/cah-beth-rissman/deltav/blob/main/102-02_notes.md)
-- [Class Notes - 03](https://github.com/cah-beth-rissman/deltav/blob/main/102-03_notes.md)
-- [Class Notes - 04](https://github.com/cah-beth-rissman/deltav/blob/main/102-04_notes.md)
-- [Class Notes - 05](https://github.com/cah-beth-rissman/deltav/blob/main/102-05_notes.md)
+# Change Your Words, Change Your Mindset
+## *Growth Mindset Explained*
+  > *There are two main mindsets we can navigate life with: **growth and fixed**. A fixed mindset is typical in someone that is incapable of change, has a preference for stability and consistency. Making little or no effort to grow their intellectual abilities or talents. Someone with a growth mindset has the capacity to tackle new challenges, learn new things and expand their intelligence over time.* <br>- Beth Rissman
+## 3 Reminders for a Growth Mindset :brain:
+  1. Challenges help me grow
+  2. I like to try new things
+  3. Feedback is constructive
+
+### Let's connect!
+[Beth Rissman, GitHub portfolio](https://github.com/cah-beth-rissman)
+
 
 
 
